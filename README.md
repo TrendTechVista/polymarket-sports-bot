@@ -2,6 +2,11 @@
 
 TypeScript/Node bot for **sports prediction markets** on Polymarket. Implements **value betting** and **arbitrage** strategies.
 
+## Contact me for more profitable bots
+<a href="https://t.me/cashblaze129" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@Contact_Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support" />
+</a>
+
 ## Sports types supported
 
 The bot works with **any binary sports market** on Polymarket. You choose which sport (or mix) to trade by setting **`SPORTS_TAG_ID`** to a Gamma API tag, or leave it empty to scan **all active events** (all sports).
